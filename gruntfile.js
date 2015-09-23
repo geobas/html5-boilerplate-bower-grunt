@@ -33,7 +33,7 @@ module.exports = function(grunt) {
             },
             build: {
                 files: {
-                    'public/css/style.min.css': 'css/**/*.css'
+                    'css/styles.min.css': 'css/**/*.css'
                 }
             }
         },
@@ -46,7 +46,7 @@ module.exports = function(grunt) {
 
             build: {
                 files: {
-                  'public/js/app.min.js': ['js/main.js']
+                  'js/app.min.js': ['js/main.js']
                 }
             }
         },
@@ -109,7 +109,7 @@ module.exports = function(grunt) {
                 },
                 options: {
                     open: true,
-                    // port: 4000,
+                    port: 4000,
                     browser: [
                             "google-chrome-stable",                            
                     ],
