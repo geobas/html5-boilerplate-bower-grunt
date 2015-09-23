@@ -9,7 +9,7 @@ HTML5 Boilerplate enhanced with Bower && Grunt
 4. `npm install` or `sudo npm install`
 
 ## Grunt task
-* `grunt default`
+* `grunt default` or `grunt --force default`
 
 ## List installed bower packages
 * `bower list -o`
