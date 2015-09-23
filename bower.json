@@ -1,0 +1,21 @@
+{
+    "name": "simple-boilerplate",
+    "version": "0.1.0",
+    "authors": "geobas",
+    "description": "A simple boilerplate with popular js libs",
+    "moduleType": "globals",
+    "dependencies": {
+        "jquery": "latest",
+        "jquery-ui": "latest",
+        "angular": "latest",
+        "bootstrap": "latest"
+    },
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
