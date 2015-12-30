@@ -3,7 +3,7 @@
 HTML5 Boilerplate enhanced with Bower && Grunt
 
 ## Set up
-1. `git clone git@github.com:ksenera/html5-boilerplate-bower-grunt.git`
+1. `git clone git@github.com:geobas/html5-boilerplate-bower-grunt.git`
 2. `cd html5-boilerplate-bower-grunt`
 3. `bower install`
 4. `npm install` or `sudo npm install`
